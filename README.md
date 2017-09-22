@@ -20,8 +20,6 @@ List of forked github repositories
 - [C Algorithms](https://github.com/fragglet/c-algorithms)
 - [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
 
-# JAVASCRIPT
-
 # C
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
 - [C Algorithms](https://github.com/fragglet/c-algorithms)
@@ -29,7 +27,3 @@ List of forked github repositories
 - - [OpenGL Minecraft](https://github.com/fogleman/Craft)
 - [Linux Source](https://github.com/torvalds/linux)
 - [VLC](https://github.com/videolan/vlc)
-
-# JAVA
-
-# C++
