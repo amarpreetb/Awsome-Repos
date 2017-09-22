@@ -1,4 +1,4 @@
 # Repos
-List of my github repositories
+List of github repositories
 
 # Comming Soon
