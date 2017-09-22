@@ -13,22 +13,22 @@ List of forked github repositories
 - [Coding Guidelines](https://github.com/Kristories/awesome-guidelines)
 
 # MACHINE LEARNING
-[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-[Tensor Flow](https://github.com/tensorflow/tensorflow)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Tensor Flow](https://github.com/tensorflow/tensorflow)
 
 # ALGORITHMS 
-[C Algorithms](https://github.com/fragglet/c-algorithms)
-[LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
+- [C Algorithms](https://github.com/fragglet/c-algorithms)
+- [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
 
 # JAVASCRIPT
 
 # C
-[Awesome C](https://github.com/amarpreetb/awesome-c)
-[C Algorithms](https://github.com/fragglet/c-algorithms)
-[LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
-[OpenGL Minecraft](https://github.com/fogleman/Craft)
-[Linux Source](https://github.com/torvalds/linux)
-[VLC](https://github.com/videolan/vlc)
+- [Awesome C](https://github.com/amarpreetb/awesome-c)
+- [C Algorithms](https://github.com/fragglet/c-algorithms)
+- [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
+- - [OpenGL Minecraft](https://github.com/fogleman/Craft)
+- [Linux Source](https://github.com/torvalds/linux)
+- [VLC](https://github.com/videolan/vlc)
 
 # JAVA
 
