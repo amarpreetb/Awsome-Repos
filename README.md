@@ -1,15 +1,16 @@
 # Repos
 List of forked github repositories
 
-# AWESOME LIST
-[Awesome List](https://github.com/sindresorhus/awesome)
-[Awesome C](https://github.com/amarpreetb/awesome-c)
-[Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
-[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-[Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-[CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-[Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
-[Coding Guidelines](https://github.com/Kristories/awesome-guidelines)
+## AWESOME LIST
+
+- [Awesome List](https://github.com/sindresorhus/awesome)
+- [Awesome C](https://github.com/amarpreetb/awesome-c)
+- [Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+- [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
+- [Coding Guidelines](https://github.com/Kristories/awesome-guidelines)
 
 # MACHINE LEARNING
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
