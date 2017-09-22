@@ -1,4 +1,7 @@
 # Repos
 List of github repositories
 
-# Comming Soon
+# JAVASCRIPT
+# C
+# JAVA
+# C++
