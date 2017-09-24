@@ -30,10 +30,10 @@ List of forked github repositories
 - [VLC](https://github.com/videolan/vlc)
 
 ## JAVASCRIPT
-[Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## OPERATING SYSTEM DEVELOPMENT
-[OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
-[OSDev.org](http://wiki.osdev.org/Main_Page)
-[OS Development](https://www.youtube.com/watch?v=YvZhgRO7hL4) - Youtube
-[How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [OSDev.org](http://wiki.osdev.org/Main_Page)
+- [OS Development](https://www.youtube.com/watch?v=YvZhgRO7hL4) - Youtube
+- [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
