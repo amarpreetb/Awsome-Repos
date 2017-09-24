@@ -3,6 +3,7 @@ List of forked github repositories
 
 ## AWESOME LIST
 
+- [List of Lists](https://github.com/jnv/lists)
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
 - [Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
@@ -12,15 +13,15 @@ List of forked github repositories
 - [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
 - [Coding Guidelines](https://github.com/Kristories/awesome-guidelines)
 
-# MACHINE LEARNING
+## MACHINE LEARNING
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Tensor Flow](https://github.com/tensorflow/tensorflow)
 
-# ALGORITHMS 
+## ALGORITHMS 
 - [C Algorithms](https://github.com/fragglet/c-algorithms)
 - [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
 
-# C
+## C
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
 - [C Algorithms](https://github.com/fragglet/c-algorithms)
 - [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
@@ -28,5 +29,11 @@ List of forked github repositories
 - [Linux Source](https://github.com/torvalds/linux)
 - [VLC](https://github.com/videolan/vlc)
 
-# JAVASCRIPT
+## JAVASCRIPT
 [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+## OPERATING SYSTEM DEVELOPMENT
+[OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+[OSDev.org](http://wiki.osdev.org/Main_Page)
+[OS Development](https://www.youtube.com/watch?v=YvZhgRO7hL4) - Youtube
+[How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
