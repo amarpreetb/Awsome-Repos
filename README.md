@@ -53,6 +53,7 @@ List of forked github repositories
 - [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [How to write a simple operating system](http://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders
 - [MikeOS](http://mikeos.sourceforge.net/) - learning tool to show how simple 16-bit, real-mode OSes work, with well-commented code and extensive documentation
+- [The little book about OS development](https://littleosbook.github.io/)
 
 ## BOTS
 - [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
