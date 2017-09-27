@@ -96,3 +96,8 @@ List of forked github repositories
 - [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
 
 ## GAME DEVELOPMENT
+
+## REVERSE ENGINEERING
+- [Beginner Book](https://beginners.re/RE4B-EN.pdf)
+- [Reddit Sub](https://www.reddit.com/r/ReverseEngineering/)
+- [Malware Museum](https://archive.org/details/malwaremuseum?sort=-publicdate)
