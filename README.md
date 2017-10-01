@@ -17,6 +17,7 @@ List of forked github repositories
 - [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation
 - [Free Dev Books List](https://github.com/EbookFoundation/free-programming-books)
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+- [Tools for Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
 ## ANDROID
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
@@ -81,6 +82,7 @@ List of forked github repositories
 ## OPEN SOURCE
 - [Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [Linux Kernel Inside](https://github.com/0xAX/linux-insides) - A book-in-progress about the linux kernel and its insides.
+- [IOS Kernel](https://github.com/apple/darwin-xnu)
 
 ## For Developers 
 - [Learn Regex](https://github.com/zeeshanu/learn-regex)
