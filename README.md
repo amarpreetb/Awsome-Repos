@@ -98,6 +98,18 @@ List of forked github repositories
 - [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
 
 ## GAME DEVELOPMENT
+JAVA
+- [Beginner Java Programming](https://www.youtube.com/watch?v=jrypN2CpAy8)
+- [Java Game Programming Episodes](https://www.youtube.com/watch?v=rfR09erJu7U) Minecraft like game in java
+- [2D Game Engine Development](https://www.youtube.com/watch?v=o7pfq0W3e4I)
+- [Shooter Game in Java](https://www.youtube.com/watch?v=e9jRfgjV4FQ)
+- [Snake game in Java](https://www.youtube.com/watch?v=S_n3lryyGZM)
+- [2D Game Development](https://www.youtube.com/watch?v=9dzhgsVaiSo)
+- [Beginner 2D Game Programming](https://www.youtube.com/watch?v=dEKs-3GhVKQ)
+- [cherno Java Game Programming](https://www.youtube.com/watch?v=GFYT7Lqt1h8&list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf)
+- [Cherno 3D Game Programming](https://www.youtube.com/watch?v=iH1xpfOBN6M)
+- [Cherno OpenGL Flappy Bird Game Programming](https://www.youtube.com/watch?v=527bR2JHSR0)
+- [OpenGL 3D Game Programming](https://www.youtube.com/watch?v=VS8wlS9hF8E)
 
 ## REVERSE ENGINEERING
 - [Beginner Book](https://beginners.re/RE4B-EN.pdf)
