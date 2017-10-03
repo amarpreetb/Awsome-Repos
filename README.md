@@ -6,18 +6,21 @@ List of forked github repositories
 - [List of Lists](https://github.com/jnv/lists)
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
-- [Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
+- [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
+- [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation
+- [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
+- [Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 - [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
 - [Coding Guidelines](https://github.com/Kristories/awesome-guidelines)
-- [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
-- [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
-- [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation
 - [Free Dev Books List](https://github.com/EbookFoundation/free-programming-books)
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 - [Tools for Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers)
+
 
 ## ANDROID
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
@@ -35,6 +38,7 @@ List of forked github repositories
 ## ALGORITHMS 
 - [C Algorithms](https://github.com/fragglet/c-algorithms)
 - [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
+- [Learn Algorithms](https://github.com/stacygohyunsi/algorithms-primer)
 
 ## C
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
@@ -112,6 +116,12 @@ JAVA
 - [OpenGL 3D Game Programming](https://www.youtube.com/watch?v=VS8wlS9hF8E)
 
 ## REVERSE ENGINEERING
+- [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
 - [Beginner Book](https://beginners.re/RE4B-EN.pdf)
 - [Reddit Sub](https://www.reddit.com/r/ReverseEngineering/)
 - [Malware Museum](https://archive.org/details/malwaremuseum?sort=-publicdate)
+
+## HACKING
+- [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) A curated list of awesome Windows Exploitation resources
+- [Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
