@@ -20,6 +20,7 @@ List of forked github repositories
 - [Free Dev Books List](https://github.com/EbookFoundation/free-programming-books)
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 - [Tools for Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers)
+- [Awesome API](https://github.com/abhishekbanthia/Public-APIs)
 
 
 ## ANDROID
