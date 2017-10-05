@@ -115,6 +115,10 @@ JAVA
 - [Cherno 3D Game Programming](https://www.youtube.com/watch?v=iH1xpfOBN6M)
 - [Cherno OpenGL Flappy Bird Game Programming](https://www.youtube.com/watch?v=527bR2JHSR0)
 - [OpenGL 3D Game Programming](https://www.youtube.com/watch?v=VS8wlS9hF8E)
+- [SDL Game Development](http://lazyfoo.net/tutorials/SDL/index.php#Multitouch)
+- [OpenGL Game Development](https://learnopengl.com/#!Introduction)
+- [Game Dev](https://www.gamedev.net/) - Forum
+- [Game Dev](https://gamedev.stackexchange.com/) - Stack Overflo
 
 ## REVERSE ENGINEERING
 - [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
@@ -126,3 +130,16 @@ JAVA
 - [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) A curated list of awesome Windows Exploitation resources
 - [Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+
+## STACK OVERFLOW
+- [Arduino](https://arduino.stackexchange.com/)
+- [Game Dev](https://gamedev.stackexchange.com/)
+- [Software Engineering](https://softwareengineering.stackexchange.com/)
+- [Android](https://android.stackexchange.com/)
+- [Code Review](https://codereview.stackexchange.com/)
+- [Programming Puzzles & Code Golf](https://codegolf.stackexchange.com/)
+- [Raspberry Pi](https://raspberrypi.stackexchange.com/)
+- [Academia](https://academia.stackexchange.com/)
+- [Computer Science](https://cs.stackexchange.com/)
+- [Reverse Engineering](https://reverseengineering.stackexchange.com/)
+- [Software Recommendations](https://softwarerecs.stackexchange.com/)
