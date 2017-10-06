@@ -38,10 +38,14 @@ List of forked github repositories
 
 ## ALGORITHMS 
 - [C Algorithms](https://github.com/fragglet/c-algorithms) - C
+- [C Algorithms](https://github.com/TheAlgorithms/C)
 - [C++ Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus) - C++
 - [Java Algorithms](https://github.com/TheAlgorithms/Java) - JAVA
+- [Python Algorithms](https://github.com/TheAlgorithms/Python) - PYTHON
+- [Javascript Algorithms and Data Structure](https://github.com/TheAlgorithms/Javascript) - JAVASCRIPT
 - [LZ4 Compression Algorithm](https://github.com/lz4/lz4)
 - [Learn Algorithms](https://github.com/stacygohyunsi/algorithms-primer)
+- [Algorithm Explanation](https://github.com/TheAlgorithms/Algorithms-Explainations)
 
 ## C
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
