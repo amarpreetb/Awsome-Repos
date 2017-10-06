@@ -51,6 +51,7 @@ List of forked github repositories
 
 ## JAVASCRIPT
 - [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [URL to PDF API](https://github.com/alvarcarto/url-to-pdf-api)
 
 ## OPERATING SYSTEM DEVELOPMENT
 - [OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
