@@ -122,6 +122,8 @@ JAVA
 - [Cherno 3D Game Programming](https://www.youtube.com/watch?v=iH1xpfOBN6M)
 - [Cherno OpenGL Flappy Bird Game Programming](https://www.youtube.com/watch?v=527bR2JHSR0)
 - [OpenGL 3D Game Programming](https://www.youtube.com/watch?v=VS8wlS9hF8E)
+- [Java Game Programming](https://www.youtube.com/watch?v=qWVUQPWa67M)
+- [Java 2D Game Programming](https://www.youtube.com/watch?v=dEKs-3GhVKQ&list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ&index=1)
 - [SDL Game Development](http://lazyfoo.net/tutorials/SDL/index.php#Multitouch)
 - [OpenGL Game Development](https://learnopengl.com/#!Introduction)
 - [Game Dev](https://www.gamedev.net/) - Forum
