@@ -22,6 +22,7 @@ List of forked github repositories
 - [Tools for Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [Awesome API](https://github.com/abhishekbanthia/Public-APIs)
 - [List of Open Source](https://github.com/amarpreetb/List-of-Open-Source)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
 
 ## ANDROID
@@ -47,6 +48,8 @@ List of forked github repositories
 - [LZ4 Compression Algorithm](https://github.com/lz4/lz4)
 - [Learn Algorithms](https://github.com/stacygohyunsi/algorithms-primer)
 - [Algorithm Explanation](https://github.com/TheAlgorithms/Algorithms-Explainations)
+- [Cosmos](https://github.com/OpenGenus/cosmos/tree/master/code) - The universe of algorithm and data structures
+- [AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 
 ## C
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
@@ -59,6 +62,7 @@ List of forked github repositories
 ## JAVASCRIPT
 - [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [URL to PDF API](https://github.com/alvarcarto/url-to-pdf-api)
+- [Speed Test](https://github.com/sindresorhus/speed-test)
 
 ## OPERATING SYSTEM DEVELOPMENT
 - [OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
@@ -135,11 +139,13 @@ JAVA
 - [Beginner Book](https://beginners.re/RE4B-EN.pdf)
 - [Reddit Sub](https://www.reddit.com/r/ReverseEngineering/)
 - [Malware Museum](https://archive.org/details/malwaremuseum?sort=-publicdate)
+- [Porting Xbox360 executables to Windows](https://github.com/rexdex/recompiler)
 
 ## HACKING
 - [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) A curated list of awesome Windows Exploitation resources
 - [Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
 ## STACK OVERFLOW
 - [Arduino](https://arduino.stackexchange.com/)
