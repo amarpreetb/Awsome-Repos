@@ -77,6 +77,7 @@ List of forked github repositories
 - [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
 - [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
 - [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation 
+
 #### Build a Bot
 - https://api.ai/
 - https://wit.ai/
@@ -116,6 +117,7 @@ List of forked github repositories
 
 ## GAME DEVELOPMENT
 JAVA
+#### Youtube Videos
 - [Beginner Java Programming](https://www.youtube.com/watch?v=jrypN2CpAy8)
 - [Java Game Programming Episodes](https://www.youtube.com/watch?v=rfR09erJu7U) Minecraft like game in java
 - [2D Game Engine Development](https://www.youtube.com/watch?v=o7pfq0W3e4I)
@@ -129,6 +131,9 @@ JAVA
 - [OpenGL 3D Game Programming](https://www.youtube.com/watch?v=VS8wlS9hF8E)
 - [Java Game Programming](https://www.youtube.com/watch?v=qWVUQPWa67M)
 - [Java 2D Game Programming](https://www.youtube.com/watch?v=dEKs-3GhVKQ&list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ&index=1)
+- [Java Game Development using LibGDX](https://www.youtube.com/watch?v=85A1w1iD2oA)
+
+#### Forums
 - [SDL Game Development](http://lazyfoo.net/tutorials/SDL/index.php#Multitouch)
 - [OpenGL Game Development](https://learnopengl.com/#!Introduction)
 - [Game Dev](https://www.gamedev.net/) - Forum
