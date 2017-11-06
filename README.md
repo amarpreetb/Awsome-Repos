@@ -1,5 +1,9 @@
 # Bookmarks
 
+## Websites
+
+- [AlternativeTo](https://alternativeto.net/)
+
 ## OPERATING SYSTEM DEVELOPMENT
 - [OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 - [OSDev.org](http://wiki.osdev.org/Main_Page)
