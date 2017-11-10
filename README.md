@@ -52,6 +52,8 @@ JAVA
 - [Java 2D Game Programming](https://www.youtube.com/watch?v=dEKs-3GhVKQ&list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ&index=1)
 - [Java Game Development using LibGDX](https://www.youtube.com/watch?v=85A1w1iD2oA)
 - [Java Graphics And Animation](https://www.youtube.com/watch?v=kLAgmnZzeXc)
+- [Android Game](https://www.youtube.com/watch?v=oe7_6IoFv_M)
+- [Ludum Dare 34](https://www.youtube.com/watch?v=IshoU-veb5Y)
 
 #### Forums
 - [SDL Game Development](http://lazyfoo.net/tutorials/SDL/index.php#Multitouch)
