@@ -54,6 +54,7 @@ JAVA
 - [Java Graphics And Animation](https://www.youtube.com/watch?v=kLAgmnZzeXc)
 - [Android Game](https://www.youtube.com/watch?v=oe7_6IoFv_M)
 - [Ludum Dare 34](https://www.youtube.com/watch?v=IshoU-veb5Y)
+- [Game Engine in Java](https://www.youtube.com/watch?v=ss3AnSxJ2X8&index=1&list=PLEETnX-uPtBXP_B2yupUKlflXBznWIlL5)
 
 #### Forums
 - [SDL Game Development](http://lazyfoo.net/tutorials/SDL/index.php#Multitouch)
